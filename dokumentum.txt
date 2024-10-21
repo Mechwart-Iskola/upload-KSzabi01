@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Komor Szabolcs
+osztály: 9.F
